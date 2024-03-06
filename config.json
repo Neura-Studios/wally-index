@@ -1,4 +1,4 @@
 {
-  "api": "https://wally.neura.gg",
+  "api": "http://neura-shared-1:32770",
   "fallback_registries": ["https://github.com/UpliftGames/wally-index"]
 }
