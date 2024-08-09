@@ -1,4 +1,4 @@
 {
-  "api": "http://35.87.143.187:8001",
+  "api": "http://35.87.143.187:8000",
   "fallback_registries": ["https://github.com/UpliftGames/wally-index"]
 }
